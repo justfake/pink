@@ -1,0 +1,1 @@
+$(".owl-carousel").owlCarousel({loop:!0,margin:0,nav:!0,navContainer:".arrows",navClass:["arrow prev","arrow next"],navText:["",""],autoplay:!0,dotsContainer:".tabs",dotClass:"tabs-item",responsive:{0:{items:1},700:{items:1},1200:{items:1}}});
